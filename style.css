@@ -3,10 +3,19 @@
   background-color: #98e9d1;
 }
 
+
 #projects {
-    padding-top: 2rem;
+  padding-top: 2rem;
   background-color: #98e9d1;
 }
-section{
-    padding-top: 4rem;
+section {
+  padding-top: 4rem;
+}
+
+.display-4 {
+  font-family: "monospace"; /* Replace "Your Desired Font" with the actual font you want to use */
+  /* Add any other styling properties as needed */
+}
+.lead{
+  font-family: "courier";
 }
